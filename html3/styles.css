@@ -1,9 +1,0 @@
-p {
-  background-color: brown;
-  color: white;
-  font-size: large;
-}
-.rounded-img {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-  padding: 0.2em;
-}
